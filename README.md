@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Salut, moi c’est Thomas 👋
+
+Bienvenue sur mon profil GitHub !
+
+Je suis développeur passionné par Laravel, Vue.js, Docker, et Linux.
+
+N’hésite pas à parcourir mes projets !
+
+---
