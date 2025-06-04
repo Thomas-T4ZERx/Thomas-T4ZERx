@@ -25,7 +25,7 @@ I love tackling technical challenges, continuously learning, and sharing my open
 
 ## 📫 Get in touch
 
-- [My LinkedIn](https://linkedin.com/in/Thomas-T4ZERx](https://www.linkedin.com/in/thomas-sauvageot-990480130/)  
+- [My LinkedIn](https://www.linkedin.com/in/thomas-sauvageot-990480130/)  
 - [My portfolio](https://sauvageotthomas.fr/)
 
 ---
