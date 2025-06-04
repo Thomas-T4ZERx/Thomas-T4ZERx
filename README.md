@@ -1,26 +1,33 @@
-## Hi there 👋
+# Hi, I'm Thomas 👋
 
-<!--
-**Thomas-T4ZERx/Thomas-T4ZERx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Salut, moi c’est Thomas 👋
-
-Bienvenue sur mon profil GitHub !
-
-Je suis développeur passionné par Laravel, Vue.js, Docker, et Linux.
-
-N’hésite pas à parcourir mes projets !
+Passionate developer based in France, building applications with Laravel, Vue.js, and Inertia.js.  
+I love tackling technical challenges, continuously learning, and sharing my open source projects.
 
 ---
+
+## ⚙️ Core Skills
+
+- 💻 Backend: PHP, Laravel, Inertia.js, MySQL  
+- 🎨 Frontend: Vue.js, Quasar  
+- 🐳 DevOps: CI/CD, GitHub Actions  
+- 🐧 Environments: Linux
+
+---
+
+## 🚀 Projects & Interests
+
+- Fullstack web applications  
+- Automation & optimization  
+- Open source development  
+- Tech experiments and keeping up with new trends
+
+---
+
+## 📫 Get in touch
+
+- [My LinkedIn](https://linkedin.com/in/Thomas-T4ZERx)  
+- [My portfolio](https://sauvageotthomas.fr/)
+
+---
+
+🐶 Bonus: I have a little corgi named Amia who keeps me company during my coding sessions 🐾
